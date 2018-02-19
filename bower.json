@@ -1,0 +1,17 @@
+{
+  "name": "app-map",
+  "description": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+     "bootstrap": "latest",
+     "angular": "latest",
+     "angular-route": "latest"
+  }
+}
